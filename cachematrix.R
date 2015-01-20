@@ -2,7 +2,7 @@
 ## cacheSolve calcutates the inverse of the special matrix created above, 
 ## it can skip the calcutation and return the inverse directly if 
 ## it has been calculated before.
-##test
+
 ## get() returns value of the matrix
 ## setmatrix can store the inverse in m
 ## getmatrix can get the value of m 
